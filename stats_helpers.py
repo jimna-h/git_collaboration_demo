@@ -10,3 +10,5 @@ def average_or_none(values):
     print("this is james")
 
     return sum(values) / len(values)
+
+print("hello Bryce")
