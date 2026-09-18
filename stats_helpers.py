@@ -6,5 +6,7 @@ def data_range(values):
 def average_or_none(values):
     if not values:
         return None
+    
+    print("this is james")
 
     return sum(values) / len(values)
